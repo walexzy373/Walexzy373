@@ -1,4 +1,4 @@
-### Hi there, I'm Walexzy 👋
+### Hi there, I'm Walex 👋
 
 
 **Full-Stack developer & AI-Powered Web Developer**
