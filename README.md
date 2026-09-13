@@ -1,5 +1,6 @@
 ### Hi there, I'm Walexzy 👋
 
+
 **Full-Stack developer & AI-Powered Web Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sodiq-a-671a9b344)
